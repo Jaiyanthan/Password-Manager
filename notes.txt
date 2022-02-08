@@ -1,0 +1,12 @@
+Password Manager: -
+
+    Moto  = Storing Passwords in an encrypted manner
+
+    Requirements :-
+                * Create inputs for application, username, Password-----------
+                * create a menu of options tostore , display Passwords----------
+                * Store the input given by the user in a file------------
+                * Open the file and read the data
+                * encrypt the data in the file
+                * append the encrypted data to the file
+                * close() the file
